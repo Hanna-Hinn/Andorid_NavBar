@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Student Helper</string>
+
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_todo">To-Do</string>
+    <string name="nav_reminder">Reminder</string>
+    <string name="nave_grade">Grade Tracking</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>

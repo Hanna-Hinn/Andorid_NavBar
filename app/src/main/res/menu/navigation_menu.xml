@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:title="@string/nav_dashboard"
+        android:icon="@drawable/ic_dashboard_foreground"
+        />
+
+    <item
+        android:id="@+id/nav_todo"
+        android:title="@string/nav_todo"
+        android:icon="@drawable/ic_todo_foreground"
+        />
+
+    <item
+        android:id="@+id/nav_reminder"
+        android:title="@string/nav_reminder"
+        android:icon="@drawable/ic_reminder_foreground"/>
+
+    <item
+        android:id="@+id/nav_grade"
+        android:title="@string/nave_grade"
+        android:icon="@drawable/ic_grade_foreground"
+        />
+
+</menu>
